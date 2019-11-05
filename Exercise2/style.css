@@ -1,0 +1,145 @@
+body {
+	background: #cce6ff;
+	color: #0a290a;
+	font-family: Gill Sans, sans-serif;
+	font-size: 14px;
+	background-size: 100% 100%;
+	line-height: 1.5;
+	text-align: justify;
+
+}
+
+h1 {
+	text-align: center;
+	color: #0a290a;
+	font-family: Gill Sans, sans-serif;
+	font-size: 4em;
+	width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    }
+
+p  {
+	text-align: justify; 
+	color: #0a290a;
+	font-family: Gill Sans, sans-serif;
+	font-size: 24px;
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    float: center;
+    }
+}
+
+h2  {font-size: 2em;
+text-align: left;
+color: #ffff99;
+margin-left: 25px;
+margin-right: 25px;
+background: #ffff99;
+color: #0a290a;
+border-radius: 100px;
+width: 50px;
+text-align: center;
+}
+
+
+.container{
+background: #0a290a;
+width: 80%;
+font-size: 18px;
+margin-left: auto;
+margin-right: auto;
+float: center;
+}
+
+#one  {
+font-size: 18px;
+color: #ffff99;
+padding: 25px;
+}
+
+#two  {
+font-size: 18px;
+color: #ffff99;
+padding: 25px;
+}
+
+#three  {
+font-size: 18px;
+color: #ffff99;
+padding: 25px;
+}
+
+#four  {
+font-size: 20px;
+padding: 25px;
+font-style: italic;
+}
+
+#five  {
+font-size: 20px;
+padding: 25px;
+font-style: italic;
+}
+
+
+#table-of-contents { 
+	list-style: none;
+	position: relative;
+	top: 25px;
+	left: 25px;
+	font-family: Gill Sans, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	width: 50%;
+	color: #0a290a;	
+}
+
+
+#table-of-contents a { 
+display: block ; 
+display- width: 30 px;
+padding: 5px; 
+color: #0a290a;
+text-decoration: none;
+}
+
+
+#table-of-contents a:hover { 
+	color: #ffff99; 
+	background: #0a290a;
+	text-decoration: none;
+}
+
+
+img
+{ max-width: 90%;
+	margin-left: auto;
+    margin-right: auto;
+     
+ }
+
+#circle {
+	width: 150px;
+	height: 40px;
+	background: #0a290a;
+	color: #ffff99;
+	border-radius: 50px;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	text-align: middle;
+}
+
+#circle :hover {
+	background: #ffff99;
+	color: #0a290a;
+}
+
+
+#circle {
+font-size: 24px;
+}
