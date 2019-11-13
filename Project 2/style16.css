@@ -1,0 +1,166 @@
+.Freedom {
+	position: sticky;
+	left: 0%;
+	top: 30%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 100px;
+}
+
+.Will {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 0%;
+	font-size: 10px;
+}
+
+.Today {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 4%;
+	font-size: 15px;
+}
+
+.Nor {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 7%;
+	font-size: 22px;
+}
+
+.Through {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 11%;
+	font-size: 25px;
+}
+.I {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 20%;
+	font-size: 25px;
+}
+.As {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 28%;
+	font-size: 22px;
+}
+.To {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 35%;
+	font-size: 15px;
+}
+.And {
+	float: left;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 40.5%;
+	font-size: 10px;
+}
+.Tire {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 40.5%;
+	text-align: right;
+	font-size: 10px;
+}
+.Let {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 44.5%;
+	text-align: right;
+	font-size: 15px;
+}
+.Tomorrow {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 49%;
+	text-align: right;
+	font-size: 18px;
+}
+.Dead {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 54%;
+	text-align: right;
+	font-size: 22px;
+}
+.Bread {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 58%;
+	text-align: right;
+	font-size: 25px;
+}
+.Seed {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 67.5%;
+	text-align: right;
+	font-size: 22px;
+}
+.Need {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 75%;
+	text-align: right;
+	font-size: 15px;
+}
+.Live {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	right: 0%;
+	top: 81%;
+	text-align: right;
+	font-size: 10px;
+}
+.Want {
+	float: right;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	top: 85%;
+	right: 0%;
+	text-align: right;
+	font-size: 15px;
+}
+.Just {
+	float: middle;
+	position: sticky;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	top: 94%;
+	right: 0%;
+	text-align: center;
+	font-size: 25px;
+}

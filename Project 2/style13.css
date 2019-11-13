@@ -25,31 +25,31 @@
 }
 
 .alt3 {
-	margin-left: 74%;
+	margin-left: 75%;
 }
 
 .alt4 {
-	margin-left: 70%;
+	margin-left: 71%;
 }
 
 .alt5 {
-	margin-left: 60%;
+	margin-left: 63.5%;
 }
 
 .alt6 {
-	margin-left: 67%;
+	margin-left: 68.5%;
 }
 
 .alt7 {
-	margin-left: 57%;
+	margin-left: 58%;
 }
 
 .alt8 {
-	margin-left: 65%;
+	margin-left: 71%;
 }
 
 .alt9 {
-	margin-left: 70%;
+	margin-left: 76%;
 }
 
 
@@ -88,7 +88,6 @@
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: right;
 }
 .As {
 	position: relative;
@@ -106,7 +105,6 @@
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: right;
 }
 .And {
 	position: relative;
@@ -124,7 +122,6 @@
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: right;
 }
 .Let {
 	position: relative;
@@ -142,7 +139,6 @@
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: right;
 }
 .Dead {
 	position: relative;
@@ -160,7 +156,6 @@
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: right;
 }
 .Seed {
 	position: relative;
@@ -178,7 +173,6 @@
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: right;
 }
 .Live {
 	position: relative;
@@ -196,7 +190,6 @@
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: right;
 }
 .Just {
 	position: relative;

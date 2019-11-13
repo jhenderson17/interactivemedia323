@@ -1,0 +1,161 @@
+.Freedom {
+	position: relative;
+	left: 0%;
+	top: 0%;
+	width: 7%;
+	background: white;
+	padding-left: 8px;
+}
+
+.Will {
+	position: relative;
+	left: 105%;
+	top: 5%;
+	width: 11%;
+	background: white;
+	padding-left: 8px;
+}
+
+.Today {
+	position: relative;
+	left: 0%;
+	top: 10%;
+	width: 12%;
+	background: white;
+	padding-left: 8px;
+}
+
+.Nor {
+	position: relative;
+	left: 105%;
+	top: 15%;
+	width: 7%;
+	background: white;
+	padding-left: 8px;
+}
+
+.Through {
+	position: relative;
+	left: 0%;
+	top: 20%;
+	width: 23%;
+	background: white;
+	padding-left: 8px;
+}
+.I {
+	position: relative;
+	left: 105%;
+	top: 25%;
+	width: 15.5%;
+	background: white;
+	padding-left: 8px;
+}
+.As {
+	position: relative;
+	left: 0%;
+	top: 30%;
+	width: 17%;
+	background: white;
+	padding-left: 8px;
+}
+.To {
+	position: relative;
+	left: 105%;
+	top: 35%;
+	width: 18%;
+	background: white;
+	padding-left: 8px;
+}
+.And {
+	position: relative;
+	left: 0%;
+	top: 40%;
+	width: 14%;
+	background: white;
+	padding-left: 8px;
+}
+.Tire {
+	position: relative;
+	left: 105%;
+	top: 45%;
+	width: 22.5%;
+	background: white;
+	padding-left: 8px;
+}
+.Let {
+	position: relative;
+	left: 0%;
+	top: 50%;
+	width: 21%;
+	background: white;
+	padding-left: 8px;
+}
+.Tomorrow {
+	position: relative;
+	left: 105%;
+	top: 55%;
+	width: 19.5%;
+	background: white;
+	padding-left: 8px;
+}
+.Dead {
+	position: relative;
+	left: 0%;
+	top: 60%;
+	width: 31%;
+	background: white;
+	padding-left: 8px;
+}
+.Bread {
+	position: relative;
+	left: 105%;
+	top: 65%;
+	width: 26%;
+	background: white;
+	padding-left: 8px;
+}
+.Seed {
+	position: relative;
+	left: 0%;
+	top: 70%;
+	width: 18.5%;
+	background: white;
+	padding-left: 8px;
+}
+.Need {
+	position: relative;
+	left: 105%;
+	top: 75%;
+	width: 18%;
+	background: white;
+	padding-left: 8px;
+}
+.Live {
+	position: relative;
+	left: 0%;
+	top: 80%;
+	width: 11.5%;
+	background: white;
+	padding-left: 8px;
+}
+.Want {
+	position: relative;
+	left: 105%;
+	top: 90%;
+	width: 14.5%;
+	background: white;
+	padding-left: 8px;
+}
+
+.Just {
+	position: relative;
+	left: 0%;
+	top: 90%;
+	width: 9%;
+	background: white;
+	padding-left: 8px;
+}
+
+body {
+	background: black;
+}
