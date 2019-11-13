@@ -1,0 +1,356 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvasone{
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: linear-gradient(174deg, rgba(241,218,168,1) 0%, rgba(255,233,176,1) 99%);
+	position: relative;
+}
+
+.shadow {
+	width: 250px;
+    height: 460px;
+	background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(237,237,237,1) 35%, rgba(164,164,164,1) 100%);
+    border: solid grey 6px;
+   	position: relative;
+   	left: 300px;
+   	top: -420px;
+    border-radius: 30px;
+}
+.case {
+	width: 250px;
+    height: 460px;
+    background: white;
+    border: solid grey 6px;
+   	position: relative;
+   	left: -8px;
+   	top: -21px;
+    border-radius: 25px;
+}
+
+.screen {
+	width: 225px;
+    height: 350px;
+    background-image: url("file:///Users/jonahhenderson/Desktop/GitHub/interactivemedia323/Exercise4/Dogs.jpg");
+   	background-repeat: no-repeat;
+   	border: solid black 1.5px;
+  	background-size: 225px 350px;
+   	position: relative;
+   	left: 6.85px;
+   	top: 48px;
+}
+
+.overlay {
+	width: 225px;
+    height: 350px;
+    background-color: black;
+    opacity: .15;
+   	position: relative;
+   	left: -2px;
+   	top: -142px;
+}
+
+h1 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: 1;
+	font-size: 45px;
+	position: relative;
+   	left: 50px;
+   	top: 20px;
+	color: white;
+}
+
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: 1;
+	font-size: 13px;
+	position: relative;
+   	left: 45px;
+   	top: -10px;
+	color: white;
+}
+
+.home {
+	width: 40px;
+    height: 40px;
+    background: white;
+    border: solid grey 3px;
+   	position: relative;
+   	left: 100px;
+   	bottom: -52px;
+   	border-radius: 50%;
+}
+
+.speaker {
+	width: 45px;
+    height: 5px;
+    background: black;
+   	position: relative;
+   	left: 97px;
+   	top: -370px;
+   	border-radius: 100px;
+}
+
+.mic {
+	width: 6px;
+    height: 6px;
+    background: black;
+   	position: relative;
+   	left: 116px;
+   	top: -386px;
+   	border-radius: 50%;
+}
+
+.cam {
+	width: 9px;
+    height: 9px;
+    background: black;
+   	position: relative;
+   	left: 75px;
+   	top: -382px;
+   	border-radius: 50%;
+}
+
+.lightning {
+	width: 30px;
+    height: 5px;
+    background: black;
+    border: solid 1.5px black;
+   	position: relative;
+   	left: 105px;
+   	top: 46px;
+   	border-radius: 100px;
+}
+
+.shadow2 {
+	width: 250px;
+    height: 460px;
+	background: black;
+	opacity: .20;
+   	position: relative;
+   	left: 325px;
+   	top: 50px;
+    border-radius: 30px;
+}
+
+.canvastwo{
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: radial-gradient(circle, rgba(215,230,229,1) 0%, rgba(206,240,240,1) 99%);
+	position: relative;
+}
+
+.head {
+      width: 140px;
+      height: 170px;
+      background: black;
+      border-radius: 100px / 75px;
+      position: relative;
+   	left: 360px;
+   	top: 80px;
+    }
+
+.mouth {
+      width: 75px;
+      height: 80px;
+      background: white;
+      border-radius: 100px / 75px;
+      position: relative;
+   	left: 393px;
+   	top: -185px;
+    }
+
+.white {
+      width: 15px;
+      height: 75px;
+      background: white;
+      border-radius: 100px / 75px;
+      position: relative;
+   	left: 423px;
+   	top: -335px;
+    }
+
+.brown {
+      width: 65px;
+      height: 45px;
+      background: #CD853F;
+      border-radius: 100px / 75px;
+      position: relative;
+   	left: 360px;
+   	top: -75px;
+   	transform: rotate(45deg);
+    }
+
+.brown2 {
+      width: 65px;
+      height: 45px;
+      background: #CD853F;
+      border-radius: 100px / 75px;
+      position: relative;
+   	left: 435px;
+   	top: -120px;
+   	transform: rotate(-45deg);
+    }
+
+ .ear1 {
+      width: 0px;
+      height: 0px;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      border-bottom: 50px solid black;
+      transform: rotate(40deg);
+      border-radius: 2px;
+      position: relative;
+   	left: 465px;
+   	top: -110px;
+    }
+
+.ear2 {
+      width: 0px;
+      height: 0px;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      border-bottom: 50px solid black;
+      transform: rotate(-40deg);
+      position: relative;
+   	right: -345px;
+   	top: -160px;
+    }
+
+.nose {
+      width: 24px;
+      height: 23px;
+      background: black;
+      border-radius: 100px / 75px;
+      position: relative;
+   	left: 419px;
+   	top: -320px;
+    }
+
+.smile {
+  background: #1A243C;
+  width: 40px;
+  height: 20px;
+  border-radius: 0 0 30px 30px;
+  position: relative;
+   	left: -20px;
+   	top: -310px;
+  margin: auto;
+  border-top: 3px solid #fff;
+  box-sizing: border-box;
+
+}
+
+.tongue {
+    width: 25px;
+    height: 40px;
+    border-radius: 5px 5px 10px 10px;
+    background: #FFC0CB;
+    margin: 0 auto;
+    position: relative;
+    top: -322px;
+    left: -20px;
+
+}
+
+.eye1 {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: black;
+      border: solid 4px white;
+      position: relative;
+   	right: -385px;
+   	top: -460px;
+    }
+
+.eye2 {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: black;
+      border: solid 4px white;
+      position: relative;
+   	right: -458px;
+   	top: -479px;
+    }
+
+.chest {
+ 	width: 160px;
+      height: 260px;
+      background: black;
+      border-radius: 40px 40px 10px 10px;
+      position: relative;
+   	left: 350px;
+   	top: -380px;
+}
+
+.tongue2 {
+    width: 25px;
+    height: 40px;
+    border-radius: 5px 5px 10px 10px;
+    background: #FFC0CB;
+    margin: 0 auto;
+    position: relative;
+    top: -660px;
+    left: -20px;
+
+}
+
+.stomach {
+  width: 100px;
+  height: 150px;
+  background: white;
+  position: relative;
+  left: 380px;
+  top: -570px;
+  border-radius: 140px 140px 0 0;
+}
+
+.leg1 {
+  width: 40px;
+  height: 30px;
+  background: black;
+  position: relative;
+  left: 330px;
+  top: -600px;
+  border-radius: 20px 20px 0 0;
+  }
+
+ .leg2 {
+  width: 40px;
+  height: 30px;
+  background: black;
+  position: relative;
+  left: 490px;
+  top: -630px;
+  border-radius: 20px 20px 0 0;
+  }
+
+ .ball {
+  position: relative;
+  overflow: hidden;
+  height: 50px;
+  width: 50px;
+ left: 550px;
+  top: -680px;
+  border-radius: 50%;
+  background-color: #cc0;
+ }
+
+ .grass {
+ width: 900px;
+ height: 45px;
+ background: green;
+ margin: 100px auto;
+ position: relative;
+ bottom: 145px;
+ }

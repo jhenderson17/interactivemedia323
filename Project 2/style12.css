@@ -1,0 +1,32 @@
+.First {
+	border: outset 5px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	padding: 10px;
+	width: 24%;
+}
+.Second {
+	border: outset 5px;
+	position: absolute;
+	left: 0;
+	top: 27%;
+	padding: 10px;
+	width: 48%;
+}
+.Third {
+	border: outset 5px;
+	position: absolute;
+	left: 0;
+	top: 48%;
+	padding: 10px;
+	width: 72%;
+}
+.Fourth {
+	border: outset 5px;
+	position: absolute;
+	left: 0;
+	top: 75%;
+	padding: 10px;
+	width: 96%;
+}
