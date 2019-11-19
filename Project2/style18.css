@@ -1,0 +1,70 @@
+body {
+background-color: black;
+}
+
+.Freedom {
+	position: absolute;
+	left: 23%;
+	top: -15%;
+	font-family: Georgia;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+}
+
+.first {
+	position: absolute;
+	left: 23%;
+	top: 22%;
+	width: 52%;
+	height: 15%;
+	background: white;
+	margin: 0px;
+}
+
+.second {
+	position: absolute;
+	left: 23%;
+	top: 40%;
+	width: 52%;
+	height: 15%;
+	background: white;
+	margin: 0px;
+}
+
+.third {
+	position: absolute;
+	left: 23%;
+	top: 58%;
+	width: 52%;
+	height: 15%;
+	background: white;
+	margin: 0px;
+}
+.fourth {
+	position: absolute;
+	left: 23%;
+	top: 76%;
+	width: 52%;
+	height: 15%;
+	background: white;
+	margin: 0px;
+}
+
+.fifth {
+	position: absolute;
+	left: 23%;
+	top: 94%;
+	width: 52%;
+	height: 15%;
+	background: white;
+	margin: 0px;
+}
+
+h2 {
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 22px;
+	padding-top: 2px;
+	text-align: center;
+}

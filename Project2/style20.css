@@ -1,0 +1,176 @@
+body {
+	background-color: white;
+}
+
+.container {
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: 0;
+	height: 140%;
+	width: 50%;
+	background-color: white;
+}
+
+.container2 {
+	position: absolute;
+	left: 50%;
+	top: 0;
+	margin: 0;
+	height: 140%;
+	width: 50%;
+	background-color: black;
+}
+
+.Freedom {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+
+.Will {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+
+.Today {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+
+.Nor {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+
+.Through {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+.I {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+.As {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+.To {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+.And {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+.Tire {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+.Let {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+.Tomorrow {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+.Dead {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+.Bread {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+.Seed {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+.Need {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+.Live {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+.Want {
+	color: white;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	margin: 5px;
+}
+
+.Just {
+	color: black;
+	padding-left: 8px;
+	font-family: Georgia;
+	font-size: 20px;
+	text-align: right;
+	margin: 5px;
+}
+
+body {
+	background: black;
+}

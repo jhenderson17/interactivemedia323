@@ -1,0 +1,235 @@
+body {
+	background-color: black;
+}
+
+.Freedom {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: -10%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 60.5px;
+	color: white;
+}
+.Will {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 5%;
+	font-size: 35px;
+	color: white;
+}
+.Today {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 13%;
+	font-size: 26px;
+	color: white;
+}
+.Nor {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 14%;
+	font-size: 42px;
+	color: white;
+}
+.Through {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 27%;
+	font-size: 11px;
+	color: white;
+}
+.Fear {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 28%;
+	font-size: 20.5px;
+	color: white;
+}
+.I {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 32%;
+	font-size: 26px;
+	color: white;
+}
+.As {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 37%;
+	font-size: 27px;
+	color: white;
+}
+.To {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 42%;
+	font-size: 23px;
+	color: white;
+}
+.And {
+	float: left;
+	position: absolute;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	left: 0%;
+	top: 45%;
+	font-size: 22px;
+	color: white;
+}
+.Tire {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 39%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 70px;
+	color: white;
+}
+.Say {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 60%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 22px;
+	color: white;
+}
+.Let {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 65.5%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+.Tomorrow {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 69%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 19.75px;
+	color: white;
+}
+.Dead {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 72%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+.Dont {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 73%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+.Bread {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 80%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 12.5px;
+	color: white;
+}
+.Bread2 {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 84%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 9px;
+	color: white;
+}
+.Seed {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 79%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 48px;
+	color: white;
+}
+.Strong {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 90%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+.Need {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 99.8%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 19px;
+	color: white;
+}
+.Live {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 102%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 27px;
+	color: white;
+}
+.Want {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 108%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+.Just {
+	float: left;
+	position: absolute;
+	left: 0%;
+	top: 105.5%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
+	font-size: 48px;
+	color: white;
+}
