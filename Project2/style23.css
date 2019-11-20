@@ -164,7 +164,7 @@ a:hover {
 
 #Nxt {
 	position: fixed;
-	left: 100px;
+	right: 0px;
 	top: 0px;
 	height: 40px;
 	width: 90px;
@@ -175,7 +175,7 @@ a:hover {
 
 #Home {
 	position: fixed;
-	left: 0px;
+	right: 100px;
 	top: 0px;
 	height: 40px;
 	width: 90px;
