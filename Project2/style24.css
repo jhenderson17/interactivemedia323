@@ -4,7 +4,7 @@ body {
 .Freedom {
 	position: fixed;
 	left: 32%;
-	top: 10%;
+	top: 15%;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 100px;
 	-webkit-animation: 2s ease-in 1s forwards running slidein;
