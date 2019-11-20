@@ -7,7 +7,7 @@ body {
 	left: 0;
 	top: 0;
 	margin: 0;
-	height: 110%;
+	height: 200%;
 	width: 300px;
 	background-color: #ffffe6;
 }
@@ -47,49 +47,104 @@ p {
 
 #lvl1 {
 	position: absolute;
-	right: 0px;
+	right: -100%;
 	top: 40px;
 	height: 100px;
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
+	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	animation-delay: 0s;
+}
+
+@-webkit-keyframes slidein {
+    from {
+        right: -100%;
+    }
+    to { 
+        right: 0%;
+    }
 }
 
 #lvl2 {
 	position: absolute;
-	right: 0px;
+	right: -100%;
 	top: 190px;
 	height: 100px;
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
+	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	animation-delay: 1s;
+}
+
+@-webkit-keyframes slidein {
+    from {
+        right: -100%;
+    }
+    to { 
+        right: 0%;
+    }
 }
 #lvl3 {
 	position: absolute;
-	right: 0px;
+	right: -100%;
 	top: 340px;
 	height: 100px;
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
+	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	animation-delay: 2s;
+}
+
+@-webkit-keyframes slidein {
+    from {
+        right: -100%;
+    }
+    to { 
+        right: 0%;
+    }
 }
 #lvl4 {
 	position: absolute;
-	right: 0px;
+	right: -100%;
 	top: 490px;
 	height: 100px;
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
+	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	animation-delay: 3s;
+}
+
+@-webkit-keyframes slidein {
+    from {
+        right: -100%;
+    }
+    to { 
+        right: 0%;
+    }
 }
 #lvl5 {
 	position: absolute;
-	right: 0px;
+	right: -100%;
 	top: 640px;
 	height: 100px;
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
+	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	animation-delay: 4s;
+}
+
+@-webkit-keyframes slidein {
+    from {
+        right: -100%;
+    }
+    to { 
+        right: 0%;
+    }
 }
 
 a {
