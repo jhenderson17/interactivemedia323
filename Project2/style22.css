@@ -1,0 +1,212 @@
+body {
+	background-color: #ffffe6;
+}
+
+a#one {
+	font-size: 140px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 0px;
+
+}
+a#two {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 1000px;
+}
+a#three {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 2000px;
+}
+a#four {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 3000px;
+}
+a#five {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 4000px;
+}
+a#six {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 5000px;
+}
+a#seven {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 6000px;
+}
+a#eight {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 7000px;
+}
+a#nine {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 8000px;
+}
+a#ten {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 9000px;
+}
+a#eleven {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 10000px;
+}
+a#twelve {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 11000px;
+}
+a#thirteen {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 12000px;
+}
+a#fourteen {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 13000px;
+}
+a#fifteen {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 14000px;
+}
+a#sixteen {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 15000px;
+}
+a#seventeen {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 16000px;
+}
+a#eighteen {
+	font-size: 100px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	right: 10px;
+	top: 17000px;
+}
+a#nineteen {
+	font-size: 140px;
+	color: black;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 10px;
+	top: 18000px;
+}
+a{
+	font-family: Georgia;
+	font-size: 10px;
+	color: #b3b3b3;
+	opacity: .55;
+	padding: 0px;
+}
+
+a:hover {
+	color: grey;
+	background-color: #ffffe6;
+	opacity: 1.0;
+	padding-top: -10px;
+}
+
+#Nxt {
+	position: fixed;
+	right: 0px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+}
+
+#Home {
+	position: fixed;
+	right: 100px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+}

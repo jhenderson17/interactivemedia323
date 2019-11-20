@@ -16,15 +16,15 @@ body {
 .Freedom {
 	position: absolute;
 	left: 23%;
-	top: -10%;
+	top: -15%;
 	width: 52%;
 	height: 15%;
 	margin: 0px;
 }
 
-h1 {
+h2 {
 	color: white;
-	font-size: 100px;
+	font-size: 120px;
 	text-align: center;
 }
 
@@ -72,7 +72,7 @@ h1 {
 	margin: 0px;
 }
 
-h3 {
+h4 {
 	font-family: Georgia;
 	font-style: italic;
 	font-size: 22px;
@@ -81,11 +81,48 @@ h3 {
 	color: white;
 }
 
-h2 {
+h3 {
 	font-family: Georgia;
 	font-style: italic;
 	font-size: 30px;
 	padding-top: 2px;
 	text-align: center;
 	color: white;
+}
+
+a{
+	font-family: Georgia;
+	font-size: 10px;
+	color: #b3b3b3;
+	opacity: .55;
+	padding: 0px;
+}
+
+a:hover {
+	color: grey;
+	background-color: #ffffe6;
+	opacity: 1.0;
+	padding-top: -10px;
+}
+
+#Nxt {
+	position: fixed;
+	right: 0px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+}
+
+#Home {
+	position: fixed;
+	right: 100px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
 }

@@ -164,3 +164,40 @@
 	text-align: center;
 	font-size: 25px;
 }
+
+a{
+	font-family: Georgia;
+	font-size: 10px;
+	color: #b3b3b3;
+	opacity: .55;
+	padding: 0px;
+}
+
+a:hover {
+	color: grey;
+	background-color: #ffffe6;
+	opacity: 1.0;
+	padding-top: -10px;
+}
+
+#Nxt {
+	position: fixed;
+	right: 0px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+}
+
+#Home {
+	position: fixed;
+	right: 100px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+}

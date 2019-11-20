@@ -106,3 +106,25 @@ a:hover {
 	opacity: 1.0;
 	padding: 10px;
 }
+
+#Nxt {
+	position: absolute;
+	left: 160px;
+	top: 750px;
+	height: 30px;
+	width: 100px;
+	background-color: #ffffe6;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+#Home {
+	position: absolute;
+	left: 20px;
+	top: 750px;
+	height: 30px;
+	width: 100px;
+	background-color: #ffffe6;
+	text-decoration: none;
+	font-size: 12px;
+}

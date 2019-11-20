@@ -1,0 +1,185 @@
+body {
+	background-color: #ffffe6;
+}
+
+p {
+	font-size: 18px;
+	color: grey;
+	opacity: 0.4;
+	margin-top: 5px;
+	position: absolute;
+	top: 0;
+	left: 20px;
+	text-align: justify;
+}
+a#one {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#two {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#three {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+
+a#four {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+
+a#five {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#six {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#seven {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#eight {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#nine {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#ten {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#eleven {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#twelve {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#thirteen {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#fourteen {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#fifteen {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#sixteen {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#seventeen {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#eighteen {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a#nineteen {
+	font-size: 20.6px;
+	color: grey;
+	background-color: black;
+	opacity: 1;
+	text-decoration: none;
+}
+a{
+	font-family: Georgia;
+	font-size: 10px;
+	color: #b3b3b3;
+	opacity: .55;
+	padding: 0px;
+}
+
+a:hover {
+	color: grey;
+	background-color: #ffffe6;
+	opacity: 1.0;
+	padding-top: -10px;
+}
+
+#Nxt {
+	position: fixed;
+	left: 100px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+}
+
+#Home {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	height: 40px;
+	width: 90px;
+	background-color: black;
+	text-decoration: none;
+	text-align: center;
+}
