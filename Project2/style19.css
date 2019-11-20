@@ -16,7 +16,7 @@ body {
 .Freedom {
 	position: absolute;
 	left: 23%;
-	top: 0%;
+	top: 10%;
 	width: 52%;
 	height: 15%;
 	margin: 0px;
@@ -31,7 +31,7 @@ h2 {
 .first {
 	position: absolute;
 	left: 23%;
-	top: 20%;
+	top: 30%;
 	width: 52%;
 	height: 15%;
 	margin: 0px;
@@ -40,7 +40,7 @@ h2 {
 .second {
 	position: absolute;
 	left: 23%;
-	top: 37%;
+	top: 45%;
 	width: 52%;
 	height: 15%;
 	margin: 0px;
@@ -49,7 +49,7 @@ h2 {
 .third {
 	position: absolute;
 	left: 23%;
-	top: 55%;
+	top: 60%;
 	width: 52%;
 	height: 15%;
 	margin: 0px;
@@ -57,7 +57,7 @@ h2 {
 .fourth {
 	position: absolute;
 	left: 23%;
-	top: 73%;
+	top: 75%;
 	width: 52%;
 	height: 15%;
 	margin: 0px;
