@@ -52,7 +52,7 @@ p {
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
-	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	-webkit-animation: 2s ease-in 1s forwards running slidein;
 	animation-delay: 0s;
 }
 
@@ -74,7 +74,7 @@ p {
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
-	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	-webkit-animation: 2s ease-in 1s forwards running slidein;
 	animation-delay: 1s;
 }
 
@@ -95,7 +95,7 @@ p {
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
-	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	-webkit-animation: 2s ease-in 1s forwards running slidein;
 	animation-delay: 2s;
 }
 
@@ -116,7 +116,7 @@ p {
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
-	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	-webkit-animation: 2s ease-in 1s forwards running slidein;
 	animation-delay: 3s;
 }
 
@@ -136,7 +136,7 @@ p {
 	width: 400px;
 	background-color: #ffffe6;
 	text-decoration: none;
-	-webkit-animation: 4s ease-in 1s forwards running slidein;
+	-webkit-animation: 2s ease-in 1s forwards running slidein;
 	animation-delay: 4s;
 }
 
