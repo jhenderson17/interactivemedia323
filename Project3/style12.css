@@ -1,0 +1,69 @@
+body {
+	background: linear-gradient(90deg, rgba(15,32,59,1) 0%, rgba(76,79,83,1) 85%, rgba(129,132,138,1) 100%);
+}
+
+h1#one {
+	font-size: 220%;
+	color: white;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	position: absolute;
+	left: 2%;
+	top: 65%;
+	-webkit-animation: fadeout 3s;
+	 animation-fill-mode: forwards;
+}
+@-webkit-keyframes fadeout {
+    from { opacity: 0.3; }
+    to   { opacity: 0; }
+}
+h1#two {
+	font-size: 240%;
+	color: white;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	position: absolute;
+	left: 2%;
+	top: 75%;
+	-webkit-animation: fadeout 3s;
+	 animation-fill-mode: forwards;
+}
+@-webkit-keyframes fadeout {
+    from { opacity: 0.3; }
+    to   { opacity: 0; }
+}
+a {
+	color: grey;
+	text-decoration: none;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+a:hover {
+	color: white;
+	opacity: 1.0;
+}
+
+h1#three {
+	font-size: 190%;
+	color: grey;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	position: absolute;
+	left: 2%;
+	top: 15%;
+-webkit-animation: fadein 2s;
+}
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+h1#four {
+	font-size: 220%;
+	color: grey;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	position: absolute;
+	left: 2%;
+	top: 25%;
+	-webkit-animation: fadein 4s;
+}
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}

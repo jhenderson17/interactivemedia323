@@ -1,0 +1,40 @@
+body {
+	background: linear-gradient(90deg, rgba(15,32,59,1) 0%, rgba(76,79,83,1) 85%, rgba(129,132,138,1) 100%);
+}
+
+h1#one {
+	font-size: 200%;
+	color: grey;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	position: absolute;
+	left: 2%;
+	top: 55%;
+	-webkit-animation: fadein 2s;
+}
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+h1#two {
+	font-size: 250%;
+	color: grey;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	position: absolute;
+	left: 2%;
+	top: 62%;
+	-webkit-animation: fadein 6s;
+}
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+a#pass {
+	color: grey;
+	text-decoration: none;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+a#pass:hover {
+	color: white;
+	opacity: 1.0;
+}
